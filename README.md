@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Linux+Enthusiast+%F0%9F%90%A7;Backend+Engineer;Open+Source+Learner;Ubuntu+CLI+First+Developer;Always+Learning+Something+New" />
 </p>
 
-<h3 align="center">Graduate Software Engineer | Linux 🐧 | Backend Engineering</h3>
+<h3 align="center">Java Backend Engineering | Graduate Software Engineer |  Manual Tester |Linux 🐧</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Linkusahoo479&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
