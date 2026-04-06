@@ -1,10 +1,11 @@
-<h1 align="center">Hey 👋 I'm Soumyaranjan Sahoo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Backend+Engineer;Software+Development+Engineer+in+Test;Open+Source+Learner;Software+Development+Engineer;Always+Learning+Something+New" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Soumyaranjan%20Sahoo&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=QA%20Automation%20Engineer%20|%20Java%20Developer&descAlignY=55&descAlign=50"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+Java+Developer;%F0%9F%A7%AA+QA+Automation+Engineer;%F0%9F%94%8D+Manual+Tester;%F0%9F%92%BB+Software+Development+Engineer+in+Test&color=FF5733,00F7FF,8A2BE2" />
 </p>
 
-<h3 align="center">Java Backend Engineer| Graduate Software Engineer|Linux 🐧</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Linkusahoo479&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -64,10 +65,26 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 - DynamoDB & S3 integration  
 - ~35% improved data retrieval efficiency  
 
-### 🐧 Linux CLI Exploration
-- Shell scripting & automation  
-- Process and file system management  
-- Terminal-driven workflows  
+### 🐧 ## 🧪 Manual Testing Projects
+
+### 🍔 Food Delivery Application Testing
+- Performed end-to-end testing of a web-based food delivery system  
+- Identified functional bug in coupon logic (applied below ₹500)  
+- Reported security issue (dashboard accessible after logout using back button)  
+- Created detailed bug reports with severity and priority  
+- Tested modules: login, cart, coupon, order placement, order tracking  
+
+### 🔐 Login Page Testing (Black Box Testing)
+- Designed test cases using Equivalence Partitioning & Boundary Value Analysis  
+- Validated email and password fields with multiple scenarios  
+- Covered valid, invalid, and boundary test cases  
+- Ensured proper error handling and validation messages  
+- Executed and documented 8+ test cases  
+
+### ⚙️ Discount Logic Testing (White Box Testing)
+- Created decision table and covered all logical branches  
+- Designed test cases for different conditions  
+- Calculated cyclomatic complexity  
 
 ---
 
