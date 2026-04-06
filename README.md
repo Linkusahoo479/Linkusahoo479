@@ -70,17 +70,9 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 - Terminal-driven workflows  
 
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/soumyaranjan-sahoo5/soumyaranjan-sahoo5/blob/output/github-contribution-grid-snake.svg)
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Linkusahoo479&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkusahoo479&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
----
 
 ## 🔥 Streak Stats
 
