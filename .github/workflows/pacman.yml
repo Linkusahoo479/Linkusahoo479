@@ -9,10 +9,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate pacman graph
-        uses: abozanona/pacman-contribution-graph@2.3.0
+        uses: abozanona/pacman-contribution-graph@v2
         with:
-          github_user_name: Linkusahoo479
+          github_user_name: soumyaranjansahoo5
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
