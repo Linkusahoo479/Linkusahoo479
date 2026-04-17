@@ -55,31 +55,32 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 </div>
 
 ---
-
-### ⚙️ Testing Concepts
-
-- Page Object Model (POM)  
-- API Testing & Automation  
-- Manual Testing (Black Box, White Box)  
-- Functional, Regression, Smoke Testing  
----
-## ⚙️ Testing Concepts (Backend / Java)
+## ⚙️ Testing Concepts
 
 <p align="center">
-  <img src="https://img.shields.io/badge/API-Testing-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Integration-Testing-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Unit-Testing-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-SQL-yellow?style=for-the-badge"/>
-</p>
 
-- REST API Testing & Automation  
-- API Validation (Status Codes, Response Body, Headers)  
-- Integration Testing (Service Layer Testing)  
-- Unit Testing (JUnit Basics)  
-- Database Testing (SQL Validation)  
-- Functional, Regression & Smoke Testing  
-- Error Handling & Exception Validation  
-- Test Case Design & Test Data Management  
+🔹 **Automation Testing (UI & Frameworks)**  
+Selenium WebDriver • TestNG • Page Object Model (POM) • Test Execution & Reporting  
+
+🔹 **Backend / API Testing (Java)**  
+REST API Testing & Automation • API Validation (Status Codes, Response Body, Headers)  
+
+🔹 **System & Integration Testing**  
+Integration Testing (Service Layer Testing) • Unit Testing (JUnit Basics)  
+
+🔹 **Database & Data Validation**  
+SQL Validation • Database Testing • Test Data Management  
+
+🔹 **Manual Testing Techniques**  
+Black Box Testing • White Box Testing • Test Case Design  
+
+🔹 **Core Testing Types**  
+Functional Testing • Regression Testing • Smoke Testing  
+
+🔹 **Error Handling & Quality Assurance**  
+Exception Handling • Edge Case Validation • Defect Identification  
+
+</p>
 ## 💻 Selected Projects
 
 ### 🎥 YouTube Automation Testing Framework
