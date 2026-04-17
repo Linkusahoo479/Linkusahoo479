@@ -80,6 +80,8 @@ Functional Testing • Regression Testing • Smoke Testing
 🔹 **Error Handling & Quality Assurance**  
 Exception Handling • Edge Case Validation • Defect Identification  
 
+💡 Focus Areas: QA Automation | API Testing | Backend Validation | Quality Engineering
+
 </p>
 ## 💻 Selected Projects
 
