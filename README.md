@@ -27,6 +27,8 @@ I build scalable backend systems in Ubuntu-based environments and enjoy CLI-firs
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="55"/>
   <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="55"/>
+  <img width="12"/>
   <img src="https://skillicons.dev/icons?i=python" height="55"/>
   <img width="12"/>
   <img src="https://skillicons.dev/icons?i=linux" height="55"/>
